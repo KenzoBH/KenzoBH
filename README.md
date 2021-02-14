@@ -1,5 +1,6 @@
 Data Scientist wannabe.   
-Studying R and Python for Data Analysis and Machine Learning.
+Studying R and Python for Data Analysis and Machine Learning.   
+[Here](https://github.com/KenzoBH/Data-Science) you can see my portfolio of Data Science projects.
 
 17 years, São Paulo.
 
