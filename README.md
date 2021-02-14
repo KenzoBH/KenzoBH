@@ -1,5 +1,4 @@
 Data Scientist wannabe.   
-Studying R and Python for Data Analysis and Machine Learning.   
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
 
 Tools and skills:   
