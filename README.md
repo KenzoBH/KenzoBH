@@ -1,6 +1,6 @@
 Data Scientist wannabe.   
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
-I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/)
+I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
 Tools and skills:   
 (Data Analysis and Machine Learning)
