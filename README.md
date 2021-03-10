@@ -9,4 +9,4 @@ I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github
 - R: RStudio, tidyverse (ggplot2, tidyr, stringr, dplyr, etc.);
 - Python: Jupyter Notebook, pandas, NumPy, matplotlib, seaborn, scikit-learn, tweepy, Selenium, BeautifulSoup.
 
-<p align="center">17 years, São Paulo.</p>
+<p align="center">17, São Paulo.</p>
