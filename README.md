@@ -5,6 +5,6 @@ I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github
 Tools and skills:   
 (Data Analysis and Machine Learning)
 - R: RStudio, tidyverse (ggplot2, tidyr, stringr, dplyr, etc.);
-- Python: Jupyter Notebook, pandas, NumPy, matplotlib, seaborn, scikit-learn, BeautifulSoup, tweepy.
+- Python: Jupyter Notebook, pandas, NumPy, matplotlib, seaborn, scikit-learn, tweepy, Selenium, BeautifulSoup.
 
 17 years, São Paulo.
