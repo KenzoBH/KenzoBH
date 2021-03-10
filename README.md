@@ -1,4 +1,4 @@
-# Hello!
+<h1 align="center">Hello!</h1>
 
 Data Scientist wannabe.   
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
