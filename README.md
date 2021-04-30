@@ -9,4 +9,4 @@ I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github
 - **R**: RStudio, tidyverse (ggplot2, tidyr, stringr, dplyr, etc.);
 - **Web**: HTML & CSS.
 
-<p align="center">17, São Paulo.</p>
+<p align="center">Statistics - IME-USP, 17.</p>
