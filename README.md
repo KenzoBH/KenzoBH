@@ -1,3 +1,6 @@
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH)
+ 
 <h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 🔥 Data Scientist wannabe.   
@@ -10,10 +13,3 @@ I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github
 - **Web**: HTML & CSS.
 
 <p align="center">Statistics - IME-USP<br>17 yo</p>
-
-<p align="center"><strong>Total visits</strong></p>
-           
-<div align="center">
-    <img src="https://profile-counter.glitch.me/kenzobh/count.svg">
-</div>
-
