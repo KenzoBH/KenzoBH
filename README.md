@@ -1,5 +1,5 @@
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH&color=brightgreen) ![Commits Badge](https://badges.pufler.dev/commits/monthly/KenzoBH)
+![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH&color=brightgreen)
  
 <h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
