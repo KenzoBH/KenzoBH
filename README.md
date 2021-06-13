@@ -1,5 +1,5 @@
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH&color=brightgreen) Hi! I'm Kenzo, aka Kenzika and Zenko.
+![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH&color=brightgreen) **Hi! I'm Kenzo, aka Kenzika and Zenko.**
 
 <h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
