@@ -3,7 +3,7 @@
 
 <h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-🧡 Data Boy at [Shopee Brasil](https://shopee.com.br)  
+🧡 Data Boy at [Shopee Brasil](https://shopee.com.br).  
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
 I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
