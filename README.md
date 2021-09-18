@@ -7,9 +7,6 @@
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
 I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
-👨🏻‍💻 Tools and skills:   
-- **Python**: Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, tweepy, Selenium, BeautifulSoup;
-- **R**: RStudio, tidyverse (ggplot2, tidyr, stringr, dplyr, etc.);
-- **Web**: HTML & CSS.
+👨🏻‍💻 Tools that I use constantly: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
 
 <p align="center">Statistics - IME-USP<br>Junior Data Analyst - Shopee Brasil<br>18 yo</p>
