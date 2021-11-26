@@ -7,6 +7,6 @@
 You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
 I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
-👨🏻‍💻 Tools that I use constantly: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
+👨🏻‍💻 Tools that I constantly work with: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
 
 <p align="center">Statistics - IME-USP<br>Junior Data Analyst - Shopee Brasil<br>18 yo</p>
