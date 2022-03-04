@@ -4,8 +4,7 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 🧡 Data Boy at [Shopee Brasil](https://shopee.com.br).  
-🖤 President at [IME Jr](https://www.instagram.com/imejr.usp/).  
-You can see my portfolio of Data Science projects (in English and in Portuguese) [here](https://github.com/KenzoBH/Data-Science).   
+🖤 President at [IME Jr](https://imejr.com/).  
 I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
 👨🏻‍💻 Tools that I constantly work with: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
