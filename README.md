@@ -1,7 +1,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KenzoBH&color=brightgreen) **Hi! I'm Kenzo, aka Kenzika and Zenko.**
 
-<h1 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Welcome to my GitHub :)</h1>
 
 🧡 Data Boy at [Shopee Brasil](https://shopee.com.br).  
 🖤 President of [IME Jr](https://imejr.com/).  
