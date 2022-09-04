@@ -9,4 +9,4 @@ I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github
 
 👨🏻‍💻 Tools that I constantly work with: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
 
-<p align="center">Statistics - IME-USP<br>Data Analyst - Shopee BR<br>18 yo</p>
+<p align="center">Statistics - IME-USP<br>Data Analyst - Shopee BR<br>19 yo</p>
