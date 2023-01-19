@@ -3,8 +3,7 @@
 
 <h1 align="center">Welcome to my GitHub :)</h1>
 
-🧡 Data Boy at [Shopee BR](https://shopee.com.br).  
-🖤 President of [IME Jr](https://imejr.com/).  
+🧡 Data Boy at [Shopee BR](https://shopee.com.br).   
 I also have a website, hosted here on GitHub. Take a look! link: [kenzobh.github.io](https://kenzobh.github.io/).
 
 👨🏻‍💻 Tools that I constantly work with: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
