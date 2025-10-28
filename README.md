@@ -10,4 +10,4 @@ I also have a website, hosted here on GitHub. [Take a look](https://kenzobh.gith
 
 Tools that I constantly work with: **Python**, **R**, **SQL**, **Google Data Studio**, **HTML & CSS**
 
-<p align="center">Statistics, USP<br>Data Analyst, Shopee/SeaMoney<br>21 yo</p>
+<p align="center">Statistics, USP<br>Senior Data Analyst, Shopee/SeaMoney</p>
